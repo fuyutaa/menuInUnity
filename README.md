@@ -66,9 +66,9 @@ https://github.com/TUTOUNITYFR
     - script : SettingsWindows.
     - function : SetResolution().
 
-24. In the mainMenu script, type the name of the scene to load in "sceneToLoad".
+24. In the mainMenu script, Copy & Paste the code in the repo.
 
-25. Copy & Paste my code in your script.
+25. In the inspector, type the name of the scene to load in "sceneToLoad".
 
 26. Add a new event on your buttonSettings :
     - script : mainMenu (drag&drop Canvas).
