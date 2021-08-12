@@ -90,7 +90,7 @@ Everything should be working. We're now going to do a button to be able to close
 
 31. Add as text an "X".
 
-32. Add a new event on your buttonStart :
+32. Add a new event on your button :
     - script : mainMenu (drag&drop Canvas).
     - function : CloseSettingsWindow(). 
 
