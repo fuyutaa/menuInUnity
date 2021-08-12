@@ -90,6 +90,6 @@ Everything should be working. We're now going to do a button to be able to close
 
 33. Desactivate settingsWindow.
 
-34. Build&Test ^^ !
+34. Rename all your buttons, UI stuff correctly.
 
-35. 
+34. Build&Test ^^ !
