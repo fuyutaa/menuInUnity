@@ -23,7 +23,7 @@ https://github.com/TUTOUNITYFR
 
 5. Do 2 clones of this button, ones on the others, making a vertical line of 3 buttons.
 
-6. Name the buttons "Continue", "Settings", "Exit".
+6. Name the buttons "Play", "Settings", "Exit".
 
 7. Add to the Canvas a script named "mainMenu".
 
@@ -70,15 +70,15 @@ https://github.com/TUTOUNITYFR
 
 25. In the inspector, type the name of the scene to load in "sceneToLoad".
 
-26. Add a new event on your buttonSettings :
+26. Add a new event on your button Settings :
     - script : mainMenu (drag&drop Canvas).
     - function : SettingsButton().
 
-27. Add a new event on your buttonStart :
+27. Add a new event on your button Play :
     - script : mainMenu (drag&drop Canvas).
     - function : StartGame().
 
-28. Add a new event on your buttonStart :
+28. Add a new event on your button Exit :
     - script : mainMenu (drag&drop Canvas).
     - function : QuitGame().
 
