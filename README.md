@@ -3,6 +3,8 @@
 
  DISCLAIMER : We will do just the basic of a menu for a PC game (fullscreen toggle, resolution). No design, just buttons.
 
+ **Alls objects, when possible, will be TMPro based. It means that for example, a Dropdown will be TMP_Dropdown based**
+
 Original video tutorial by TUTO UNITY FR alias zef, on youtube :
 https://www.youtube.com/channel/UCJRwb5W4ZzG43J5_dViL6Fw
 https://github.com/TUTOUNITYFR
